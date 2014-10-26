@@ -5,7 +5,7 @@ Web-Security-Course
 This repository contains assignments or course project of course web security
 
 ### Assignment 1
-*MD5 algorithm
+MD5 algorithm
 
 ```
 1. Show me how MD5 works.
@@ -13,7 +13,7 @@ This repository contains assignments or course project of course web security
 ```
 
 ### Assignment 2
-*Write a short thesis on one of the three applications 
+Write a short thesis on one of the three applications 
 
 ```
 1. MD5 and password protection. [chosed]
@@ -22,14 +22,16 @@ This repository contains assignments or course project of course web security
 ```
 
 ### Assignment 3
-*Give an example of X.509 certificate and state how it works
-Useful commands
-1. generate certificate
-```shell
-openssl genrsa 1024 > key.pem
-openssl req -x509 -new -key key.pem > x509.crt
-```
-2. print X.509 certificate in a pretty way
-```shell
-openssl x509 -in x509.crt -text
-```
+Give an example of X.509 certificate and state how it works
+
+* Useful commands
+
+ 1.generate certificate
+ ```shell
+ openssl genrsa 1024 > key.pem
+ openssl req -x509 -new -key key.pem > x509.crt
+ ```
+ 2.print X.509 certificate in a pretty way
+ ```shell
+ openssl x509 -in x509.crt -text
+ ```
