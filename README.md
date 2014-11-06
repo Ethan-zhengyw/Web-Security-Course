@@ -35,3 +35,6 @@ Give an example of X.509 certificate and state how it works
  ```shell
  openssl x509 -in x509.crt -text
  ```
+
+### Assignment 4
+State the packing and unpacking procedure of IPsec packets under transport mode
