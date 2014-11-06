@@ -4,7 +4,7 @@ Web-Security-Course
 
 This repository contains assignments or course project of course web security
 
-### Assignment 1
+### Assignment 1 - MD5
 MD5 algorithm
 
 ```
@@ -12,7 +12,7 @@ MD5 algorithm
 2. Design an executable MD5 program in C/C++ with some short samples.
 ```
 
-### Assignment 2
+### Assignment 2 - short thesis
 Write a short thesis on one of the three applications 
 
 ```
@@ -21,7 +21,7 @@ Write a short thesis on one of the three applications
 3. RSA and electronic business.
 ```
 
-### Assignment 3
+### Assignment 3 - X.509 certificate
 Give an example of X.509 certificate and state how it works
 
 * Useful commands
@@ -36,5 +36,5 @@ Give an example of X.509 certificate and state how it works
  openssl x509 -in x509.crt -text
  ```
 
-### Assignment 4
+### Assignment 4 - IPsec
 State the packing and unpacking procedure of IPsec packets under transport mode
